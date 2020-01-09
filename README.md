@@ -6,3 +6,5 @@ Bước 2: nhập giá trị 2
 Bước 3: chọn phép tính cần tính
 
 Bước 4: tính
+
+Bước 5: kết thúc quá trình tính
