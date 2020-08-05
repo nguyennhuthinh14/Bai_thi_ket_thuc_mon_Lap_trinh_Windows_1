@@ -1,4 +1,4 @@
-# Bai_thi_ket_thuc_mon_Lap_trinh_Windows_1
+# Bài thi kết thúc môn Lập trình Windows 1 (C# hay VB)
 Bước 1: nhập giá trị 1
 
 Bước 2: nhập giá trị 2
